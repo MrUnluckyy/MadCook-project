@@ -1,1 +1,1 @@
-# MadCook-project
+# MADCOOK recipe search application
